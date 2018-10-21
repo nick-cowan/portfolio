@@ -38,6 +38,7 @@ nav  {
     padding: 10px;
     margin-right: 5rem;
     text-decoration: none;
+    font-weight: 300;
 }
 
 .nav-links a {
@@ -144,7 +145,6 @@ a.logo:hover {
 
 .footer-item {
   width: 100%;
-  border-top: 1px solid #808080;
   clear: both;
 }
 
@@ -163,12 +163,12 @@ ul.footer {
 }
 
 .footer-logo {
-  color: #808080;
+  color: #f1f1f1;
 }
 
 .footer p {
   text-align: center;
-  color: #808080;
+  color: #f1f1f1;
   font-size: 0.75rem;
   margin-bottom: 2rem;
 }
@@ -182,8 +182,6 @@ body {
 }
 
 .main-image {
-
-  background-color: #f1f1f1;
   background-size: cover;
   background-position: center;
   display: flex;
@@ -268,6 +266,7 @@ h3.project-title {
 
 .image.news-item {
   max-width: 100%;
+
 }
 
 .news-item p {
