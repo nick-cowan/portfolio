@@ -34,6 +34,14 @@ nav  {
 
 }
 
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+
+  font-size: 1.2em;
+}
+
 .nav-links li {
     padding: 10px;
     margin-right: 5rem;
