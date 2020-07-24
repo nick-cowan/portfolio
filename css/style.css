@@ -17,7 +17,6 @@
 
 /*RESETS*/
 ul, ol {
-
   font-size: 1.1em;
   margin-bottom: 1.5em;
 }
@@ -132,7 +131,7 @@ a.logo:hover {
 }
 
 .lede {
-  width: 75%;
+   margin-bottom: 0px;
 }
 
 .about h1 {
