@@ -131,7 +131,10 @@ a.logo:hover {
 }
 
 .lede {
-   margin-bottom: 0px;
+   margin-bottom: 10px;
+   color: #535963;
+   font-size: 1.75rem;
+   font-weight: 400;
 }
 
 .about h1 {
@@ -177,7 +180,7 @@ ul.footer {
 }
 
 .footer-logo {
-  color: #f1f1f1;
+  color: #000000;
 }
 
 .footer p {
@@ -188,7 +191,7 @@ ul.footer {
 }
 
 .container-fluid {
-    background-color: #373a3c;
+    background-color: #f1f1f1;
 }
 
 body {
@@ -272,7 +275,7 @@ body {
 }
 
 .intro h1 {
-  color: #0074d9;
+  color: #000000;
   font-weight:600;
   margin-bottom: 2rem;
 }
@@ -284,11 +287,11 @@ body {
   margin-bottom: 2rem;
 }
 
-.intro {
+/* .intro p {
   color: #535963;
   font-size: 1.75rem;
   font-weight: 400;
-}
+} */
 
 .main-content h2 {
 
